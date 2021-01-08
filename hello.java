@@ -1,9 +1,8 @@
 hello java
-hello java1
+hello java1    #dev1
 hello java2
-<<<<<<< HEAD
+ HEAD
 {
-	hello world
+	hello world      #dev1
 }
-=======
->>>>>>> cb6d5f7b4c0c9cf8958d7537d1800baa7c32425e
+
